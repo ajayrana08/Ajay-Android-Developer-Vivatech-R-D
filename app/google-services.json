@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816351897279",
+    "project_id": "vivatechrdandroidassigment",
+    "storage_bucket": "vivatechrdandroidassigment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816351897279:android:83c2df956d0f99d927c80a",
+        "android_client_info": {
+          "package_name": "com.example.vivatechrdandroidassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816351897279-kibj8onei3av92p6o1irvusog5n950q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vivatechrdandroidassigment",
+            "certificate_hash": "7fbcbd54b458033cf1df254130b3b0855d162575"
+          }
+        },
+        {
+          "client_id": "816351897279-3rmnimv2jh9m3afn0vqc6s1clcsvjbgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMMXgNAbCqXRkeqPIMUtkyCJWeivvMRM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816351897279-3rmnimv2jh9m3afn0vqc6s1clcsvjbgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
